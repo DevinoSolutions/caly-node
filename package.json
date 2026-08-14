@@ -1,0 +1,12 @@
+{
+  "name": "@trycaly/sdk",
+  "version": "0.0.1",
+  "description": "Placeholder — the official Caly SDK. Coming soon.",
+  "license": "MIT",
+  "homepage": "https://trycaly.com",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevinoSolutions/caly-node.git"
+  }
+}
